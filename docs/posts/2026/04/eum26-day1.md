@@ -1,15 +1,15 @@
 ---
 authors:
   - boegel
-date: 2026-04-24
-slug: eum26
+date: 2026-04-21
+slug: eum26-day1
 hide:
   - navigation
 ---
 
-# 11th EasyBuild User Meeting (EUM'26)
+# EUM'26 - Day 1
 
-From 21 to 23 April 2026 the [11th EasyBuild User Meeting (EUM'26)](https://easybuild.io/eum26/)
+The [11th EasyBuild User Meeting (EUM'26)](https://easybuild.io/eum26/)
 took place in the beautiful city of Guimarães, the home of the EuroHPC supercomputer *Deucalion*.
 
 <figure markdown="span">
@@ -26,6 +26,8 @@ for Advanced Computing)](https://acnca.pt/?lang=en), [INESC TEC](https://www.ine
 [Fujitsu](https://global.fujitsu/), [Do IT Now](https://www.doitnowgroup.com/),
 [Inuits](https://inuits.eu/), [Microsoft Azure](https://azure.microsoft.com/en-us),
 and [NVIDIA](https://www.nvidia.com/).
+
+This blog post covers the first day of the 3-day event, see also [day 2](eum26-day2.md) and [day 3](eum26-day3.md).
 
 <!-- more -->
 
@@ -134,7 +136,16 @@ to learn along the way. Kids these days...
 ![](eum26_city-tour-start.webp){width=100%}
 </figure>
 
-We passed by various interesting landmarks, including a statue of first king of Portugal.
+We took advantage of the scenery to take a group picture of everyone who was present from the start of the event.
+
+<figure markdown="span">
+![](eum26_group_picture.webp){width=100%}
+</figure>
+
+As somebody mentioned in the EasyBuild Slack when this group picture was shared with the broader community:
+it doesn't look like this castle was an ... easy build (*ba-dum tsing!*).
+
+During the tour, we passed by various interesting landmarks, like a statue of first king of Portugal.
 
 <figure markdown="span">
 ![](eum26_city-tour-statue.webp){width=60%}
@@ -148,9 +159,9 @@ Part of the old city wall made it crystal clear what Guimarães means to the Por
 </figure>
 
 Eventually, the city tour brought us exactly where we had to be: the [United Nations University (UNU) EGOV](https://unu.edu/egov/about/location)
-site located in Guimarães, which was the venue for the 11th EasyBuild User Meeting.
+site located in Guimarães, the main venue for this EasyBuild User Meeting.
 
-## Day 1: EasyBuild & HPSF
+## Welcome at the venue
 
 After a quick welcome, and fighting the local setup to ensure that we could also stream and record all talks,
 we were ready to start the actual meeting. The room was fully occupied by the almost 50 in-person attendees,
@@ -160,7 +171,7 @@ to the point where extra chairs had to be brought in.
 ![](eum26_room.webp){width=100%}
 </figure>
 
-### EasyBuild State of the Union
+## EasyBuild State of the Union
 
 First up was the traditional *EasyBuild State of the Union* talk.
 Interesting trends and results from the [9th EasyBuild User Survey](https://docs.easybuild.io/user-survey/)
@@ -179,10 +190,10 @@ as well as the future of EasyBuild.
 *([slides](https://users.ugent.be/~kehoste/eum26/eum26_001_state_of_the_union.pdf) - [recording](https://www.youtube.com/watch?v=2kywNPUnj_s&list=PLhnGtSmEGEQjTW4HoDDNnjBGUf4v0RgJw&index=1&pp=iAQB))*
 
 
-### EasyBuild Governance
+## EasyBuild Governance
 
 Right after the *State of the Union* talk, Adam updated attendees
-on the recent efforts of the [interm Steering Committee](https://docs.easybuild.io/governance/) for EasyBuild.
+on the recent efforts of the [interim Steering Committee](https://docs.easybuild.io/governance/) for EasyBuild.
 
 <figure markdown="span" style="display:flex; gap:0; justify-content:center;">
 ![](eum26_governance-screenshot1.webp){width=50%}
@@ -198,7 +209,7 @@ He kindly invited the EasyBuild community to provide feedback on the [draft gove
 *([slides](https://users.ugent.be/~kehoste/eum26/eum26_002_governance.pdf) - [recording](https://www.youtube.com/watch?v=rXuwGFUZqFk&list=PLhnGtSmEGEQjTW4HoDDNnjBGUf4v0RgJw&index=2&pp=iAQB0gcJCdQKAYcqIYzv))*
 
 
-### HPSF
+## HPSF
 
 Directly tying in with the discussion on governance, the next talk introduced the
 [*High Performance Software Foundation (HPSF)*](https://hpsf.io).
@@ -216,9 +227,9 @@ interesting to attendees.
 
 *([slides](https://users.ugent.be/~kehoste/eum26/eum26_003_HPSF.pdf) - [recording](https://www.youtube.com/watch?v=2BeWQquZbR8&list=PLhnGtSmEGEQjTW4HoDDNnjBGUf4v0RgJw&index=4&pp=iAQB))*
 
-### EasyBuild site talks, part 1
+## EasyBuild site talks, part 1
 
-To wrap up the first day 3 (actually 4) people gave a short EasyBuild site talk, another tradition that has grown 
+To wrap up the first day, 3 (actually 4) people gave a short EasyBuild site talk, another tradition that has grown 
 a the EasyBuild User Meeting throughout the years.
 
 - Bernardo shared insights on how EasyBuild has helped with managing the central software stack on *Deucalion*,
@@ -237,52 +248,6 @@ a the EasyBuild User Meeting throughout the years.
   and ended with some thought provoking ideas on a standard for package recipes that could be adopted by tools like EasyBuild, Spack, and others.
   <br/>*([slides](https://users.ugent.be/~kehoste/eum26/eum26_006_CERN.pdf) - [recording](https://www.youtube.com/watch?v=GdESGn9M81M&list=PLhnGtSmEGEQjTW4HoDDNnjBGUf4v0RgJw&t=2788s))*
 
-
-
-## Day 2: EasyBuild, and beyond
-
-
-### EasyBuild site talks, part 2
-
-### LLMs
-
-### Spack
-
-### 3D desktop with EasyBuild
-
-### Bubble Wrapping EasyBuild
-
-### Slinky on AKS
-
-### EasyBuild site talks, part 3
-
-### EPICURE
-
-### Lmod update
-
-### flux
-
-## Day 3: EESSI, Fujitsu keynote, ...
-
-### EESSI update
-
-### Keynote on Fujitsu Monaka
-
-### GPU support in EESSI
-
-### EESSI CLI tool
-
-### JUBE
-
-### EasyBuild site talks, part 4
-
-### LLVM toolchains
-
-### CernVM-FS
-
-### EuroHPC Federation Platform
-
-### Future of EasyBuild
-
 ---
 
+This blog post covered the first day of this 3-day event, see also [day 2](eum26-day2.md) and [day 3](eum26-day3.md).
