@@ -42,7 +42,7 @@ and the "team building"-like side steps we have done in recent years. See for ex
 organised to celebrate the [10th EasyBuild User Meeting last year](../../2025/03/eum25.md).
 
 Nevertheless, attendees took the opportunity to meet up with people they haven't seen in a while, or perhaps have
-only met online until then. The custom professsionally designed badges that everyone was invited to wear 
+only met online until then. The custom professionally designed badges that everyone was invited to wear 
 were a great conversation starter, since they also feature GitHub handles. In some cases, even the band T-shirt
 that some people happened to wear triggered people to talk to each other. :wink:
 
