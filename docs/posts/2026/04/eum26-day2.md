@@ -119,14 +119,14 @@ Maybe they were confused about the EasyBuild terminology being used by the atten
 Mikael presented the recent (and ongoing) efforts he and his colleagues have made to
 install all that is required to get 3D desktop environment working in Linux.
 
-He gave an whirlwind tour of the Linux graphics stack, inclusing various concepts
+He gave an whirlwind tour of the Linux graphics stack, including various concepts
 that are likely alien to most of the attendees, like compositors, window managers, buffers, panels, etc.
 He also clarified what *server* and *client* mean exactly in this context.
 
 By comparing the old school X11 with the more modern Wayland, he gradually built up
 a detailed overview of this complex ecosystem, and covered various gotchas along the way.
 
-He wrapped up the presentation with an impressive demo of a 3D desktop enviroment that was
+He wrapped up the presentation with an impressive demo of a 3D desktop environment that was
 installed entirely with EasyBuild. Go check out the recording to see it in action!
 
 <figure markdown="span">
